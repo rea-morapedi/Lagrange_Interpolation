@@ -17,5 +17,5 @@ In the real world we don't always have complete data. This method lets us fill i
 3. Run `Lagrange_interpolation.m`
 
 ## Output
-![Lagrange Graph](images/LagrangeOutput.png)
 ![Console Output](images/unnamed.png)
+![Lagrange Graph](images/LagrangeOutput.png)
